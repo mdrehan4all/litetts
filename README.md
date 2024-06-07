@@ -2,6 +2,11 @@
 
 A package to convert text into speech.
 
+# Install
+```shell
+pip install litetts
+```
+
 # Example Code 1
 ```python
 import litetts
